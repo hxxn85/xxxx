@@ -27,3 +27,21 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+
+---
+git: 로컬 저장소 버전관리, 협업
+github: 온라인 저장소, 버전관리, 협업
+
+## 저장소 초기화
+`git init [directory]`  
+`git clone [repositoty] [directory]`
+
+## 버전 관리 (업데이트)
+`git add [file...]` : 커밋할 파일들 스테이징  
+`git commit -m [message]`  
+`git push`
+
+## 상태
+`git status`  
+`git log`
+
