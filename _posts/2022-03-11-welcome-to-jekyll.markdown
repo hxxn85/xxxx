@@ -37,11 +37,13 @@ github: 온라인 저장소, 버전관리, 협업
 `git clone [repositoty] [directory]`
 
 ## 버전 관리 (업데이트)
+`git pull`: 온라인 저장소 -> 로컬 저장소 다운로드  
 `git add [file...]` : 커밋할 파일들 스테이징  
-`git commit -m [message]`  
-`git push`
+`git commit -m [message]`: 스테이징 파일 -> 버전 업데이트  
+`git push`:  로컬 저장소 -> 온라인 저장소 업로드
 
 ## 상태
 `git status`  
 `git log`
 
+ddndwjkndwnjk
